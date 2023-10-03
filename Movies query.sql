@@ -1,4 +1,4 @@
--- Create Tables 
+-- Create Tables in the database
 
 CREATE TABLE category (
 	category_id INTEGER,
